@@ -1,0 +1,43 @@
+.firstcenter{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 60px;
+}
+
+.firstcenter div li{
+    list-style: none;
+    margin-top: 10px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.contain{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+    background-color: black;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex div{
+    margin-left: 100px;
+}
+
+.flex div li{
+    list-style: none;
+    margin-top: 10px;
+    color: white;
+}
+
+.icons{
+    background-color: gray;
+    margin-right: 30px;
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 20px;
+}

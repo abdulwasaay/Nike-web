@@ -1,0 +1,37 @@
+.container{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+.container span{
+    font-size: 70px;
+    font-family: sans-serif;
+    font-weight: 900;
+    letter-spacing: -6px;
+}
+
+.container p{
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.container button{
+    margin-top: 30px;
+    border: none;
+    outline: none;
+    background-color: black;
+    padding: 10px 20px 10px 20px;
+    border-radius: 20px;
+}
+
+.links{
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
